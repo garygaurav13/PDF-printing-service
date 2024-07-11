@@ -1,0 +1,25 @@
+{
+  "name": "gary",
+  "version": "1.0.0",
+  "description": "Welcome to the Ghostland!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garygaurav13/PDF-printing-service.git"
+  },
+  "keywords": [
+    "ghost"
+  ],
+  "author": "Ghost",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garygaurav13/PDF-printing-service/issues"
+  },
+  "homepage": "https://github.com/garygaurav13/PDF-printing-service#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
